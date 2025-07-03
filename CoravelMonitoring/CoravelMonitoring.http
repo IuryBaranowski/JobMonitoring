@@ -1,0 +1,6 @@
+@CoravelMonitoring_HostAddress = http://localhost:5259
+
+GET {{CoravelMonitoring_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
